@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-causality-dev-135119-authRole",
+      "UnauthRoleArn": "arn:aws:iam::629359601911:role/amplify-causality-dev-135119-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::629359601911:role/amplify-causality-dev-135119-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-causality-dev-135119-deployment",
+      "UnauthRoleName": "amplify-causality-dev-135119-unauthRole",
+      "StackName": "amplify-causality-dev-135119",
+      "StackId": "arn:aws:cloudformation:us-west-2:629359601911:stack/amplify-causality-dev-135119/73d100e0-2a2f-11ed-aae6-0617c9d5d897",
+      "AmplifyAppId": "dp1v6knhuzone"
+    }
+  }
+}

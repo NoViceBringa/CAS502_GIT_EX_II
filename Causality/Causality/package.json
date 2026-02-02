@@ -1,0 +1,9 @@
+{
+  "name": "causality",
+  "version": "0.0.0",
+  "description": "Causality",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}
